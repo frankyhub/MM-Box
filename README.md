@@ -1,4 +1,4 @@
-# Parametrierbares Gehäuse
+# Parametrierbare Gehäuse
 
 ## MM-Box
 
