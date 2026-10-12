@@ -12,14 +12,14 @@
 <img src="pic/MM-Box.png" width="500"> 
 <br> <br>
 
-</div>
 
-# Parametrierbare Gehäuse
+
+### Parametrierbare Gehäuse
 
 <img src="pic/Makerbox.png" width="500"> 
 <br> <br>
 
-
+</div>
 
 ---
 
